@@ -1,0 +1,15 @@
+body{
+         
+background-position: left;
+}
+h1{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: 500;
+    font-style: italic;
+}
+#movie-poster{
+    max-width: 35%;
+    height: auto;
+}
